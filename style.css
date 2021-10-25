@@ -5,15 +5,15 @@ body{
   background-size: cover; 
 }
 .box{
-   width: 450px;
-   background: rgba(0, 0, 0, 0.4); 
-   padding: 40px;
-   text-align: center;
-   margin: auto;
-   margin-top: 5%;
-   color: white;
-   font-family: 'Century Gothic',sans-serif; 
-}
+    width: 660px;
+    background: linear-gradient(42deg, black, #8c0b0b2b);
+    padding: 80px;
+    text-align: center;
+    margin: auto;
+    margin-top: 5%;
+    color: white;
+    font-family: 'Century Gothic',sans-serif;   
+ }
 .box-img{
     border-radius: 50%;
     width: 200px;
